@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube on My blog</title>
-    <link>https://manuelgop.github.io/tags/youtube/</link>
-    <description>Recent content in youtube on My blog</description>
+    <title>cerveza on My blog</title>
+    <link>https://manuelgop.github.io/tags/cerveza/</link>
+    <description>Recent content in cerveza on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 Jun 2020 10:49:49 -0500</lastBuildDate>
     
-	<atom:link href="https://manuelgop.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuelgop.github.io/tags/cerveza/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <description>Black Cuasar de Cervecería Principia Probando la limitadísima cerveza de principia una Black IPA, de aromas y sabores parecidos a una NEIPA.
   Espero sus comentaios y opiniones.
 Saludos.</description>
-    </item>
-    
-    <item>
-      <title>Mateando</title>
-      <link>https://manuelgop.github.io/mateando/</link>
-      <pubDate>Wed, 10 Jun 2020 09:25:23 -0500</pubDate>
-      
-      <guid>https://manuelgop.github.io/mateando/</guid>
-      <description>Mateando con @dagopaam En este episodio hablamos sobre el mate, como servirlo y que tan popular es en sudamerica. Te invito a que lo veas y cualquier comentario dejanos un mensaje.
-  Saludos!</description>
     </item>
     
   </channel>
